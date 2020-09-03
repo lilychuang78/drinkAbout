@@ -1,6 +1,6 @@
 describe("what can I drink", function() {
     beforeEach(function(){
-        drink = new whatCanIdrink
+        drink = new whatCanIdrink;
     });
 
 
